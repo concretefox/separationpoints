@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/theloft", {data:[{}],fetch:[],mutations:void 0});

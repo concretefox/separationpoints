@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/reggae-cuts", {data:[],fetch:[],mutations:void 0});

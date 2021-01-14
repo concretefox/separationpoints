@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pages/browse", {data:[],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/reggeacuts", {data:[{}],fetch:[],mutations:void 0});
